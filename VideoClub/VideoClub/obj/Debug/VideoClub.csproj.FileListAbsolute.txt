@@ -1,0 +1,17 @@
+C:\Users\andre\source\repos\VideoClub\VideoClub\bin\Debug\VideoClub.exe.config
+C:\Users\andre\source\repos\VideoClub\VideoClub\bin\Debug\VideoClub.exe
+C:\Users\andre\source\repos\VideoClub\VideoClub\bin\Debug\VideoClub.pdb
+C:\Users\andre\source\repos\VideoClub\VideoClub\obj\Debug\VideoClub.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\VideoClub\VideoClub\obj\Debug\VideoClub.Properties.Resources.resources
+C:\Users\andre\source\repos\VideoClub\VideoClub\obj\Debug\VideoClub.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\VideoClub\VideoClub\obj\Debug\VideoClub.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\VideoClub\VideoClub\obj\Debug\VideoClub.exe
+C:\Users\andre\source\repos\VideoClub\VideoClub\obj\Debug\VideoClub.pdb
+C:\Users\andre\source\repos\VideoClub\VideoClub\obj\Debug\VideoClub.frmPrincipal.resources
+C:\Users\andre\source\repos\VideoClub\VideoClub\obj\Debug\VideoClub.frmPeliculas.resources
+C:\Users\andre\source\repos\VideoClub\VideoClub\obj\Debug\VideoClub.frmClientes.resources
+C:\Users\andre\source\repos\VideoClub\VideoClub\obj\Debug\VideoClub.frmEmpleado.resources
+C:\Users\andre\source\repos\VideoClub\VideoClub\obj\Debug\VideoClub.frmRentas.resources
+C:\Users\andre\source\repos\VideoClub\VideoClub\obj\Debug\VideoClub.frmVistaGeneral.resources
+C:\Users\andre\source\repos\VideoClub\VideoClub\obj\Debug\VideoClub.frmLogin.resources
+C:\Users\andre\source\repos\VideoClub\VideoClub\obj\Debug\VideoClub.frmAgregarRentas.resources

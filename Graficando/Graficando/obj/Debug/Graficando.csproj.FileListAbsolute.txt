@@ -1,0 +1,10 @@
+C:\Users\andre\source\repos\Graficando\Graficando\bin\Debug\Graficando.exe.config
+C:\Users\andre\source\repos\Graficando\Graficando\bin\Debug\Graficando.exe
+C:\Users\andre\source\repos\Graficando\Graficando\bin\Debug\Graficando.pdb
+C:\Users\andre\source\repos\Graficando\Graficando\obj\Debug\Graficando.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Graficando\Graficando\obj\Debug\Graficando.GraficandoForm.resources
+C:\Users\andre\source\repos\Graficando\Graficando\obj\Debug\Graficando.Properties.Resources.resources
+C:\Users\andre\source\repos\Graficando\Graficando\obj\Debug\Graficando.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\Graficando\Graficando\obj\Debug\Graficando.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Graficando\Graficando\obj\Debug\Graficando.exe
+C:\Users\andre\source\repos\Graficando\Graficando\obj\Debug\Graficando.pdb

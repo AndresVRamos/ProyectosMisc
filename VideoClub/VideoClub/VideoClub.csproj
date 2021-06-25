@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9DC1696B-2CDB-4307-B00E-F67CC7BB6F8C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>VideoClub</RootNamespace>
+    <AssemblyName>VideoClub</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="claseUsuarios.cs" />
+    <Compile Include="frmAgregarRentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAgregarRentas.Designer.cs">
+      <DependentUpon>frmAgregarRentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConexionBD.cs" />
+    <Compile Include="frmClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmClientes.Designer.cs">
+      <DependentUpon>frmClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmpleado.Designer.cs">
+      <DependentUpon>frmEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPeliculas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPeliculas.Designer.cs">
+      <DependentUpon>frmPeliculas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRentas.Designer.cs">
+      <DependentUpon>frmRentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVistaGeneral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVistaGeneral.Designer.cs">
+      <DependentUpon>frmVistaGeneral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAgregarRentas.resx">
+      <DependentUpon>frmAgregarRentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmClientes.resx">
+      <DependentUpon>frmClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmpleado.resx">
+      <DependentUpon>frmEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPeliculas.resx">
+      <DependentUpon>frmPeliculas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRentas.resx">
+      <DependentUpon>frmRentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVistaGeneral.resx">
+      <DependentUpon>frmVistaGeneral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cinema_theapplication_3040 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_icon-icons.com_57997 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3592853-align-employee-general-human-human-list-list-member_107786 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Movie_Studio_30032 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\files_manager_history_10109 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\files_manager_history_10109.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1c0e2f5dd42f7a274953ab7200191837.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\51U5MvmtXGL.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\853c3c36ad7ebe02a5ac3897d48031e5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\853c3c36ad7ebe02a5ac3897d48031e5a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\41152a24a1023dc47796b2cded30469b.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\646150.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\825971.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avengers-infinity-war-thanos-gauntlet-minimalism-o3-1920x1080.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blade_runner_2049-frame-it-image-.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brayan-buitrago-img-20170318-203128-121.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chungkong-drama.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimal_movie_posters_-_star_wars.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\812281_movies-drive-ryan-gosling-fan-art-drive-movie-wallpapers_1920x1080_h1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

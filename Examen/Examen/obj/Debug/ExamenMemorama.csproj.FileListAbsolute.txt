@@ -1,0 +1,10 @@
+C:\Users\andre\source\repos\Examen\Examen\bin\Debug\Examen.exe.config
+C:\Users\andre\source\repos\Examen\Examen\bin\Debug\Examen.exe
+C:\Users\andre\source\repos\Examen\Examen\bin\Debug\Examen.pdb
+C:\Users\andre\source\repos\Examen\Examen\obj\Debug\Examen.Memorama.resources
+C:\Users\andre\source\repos\Examen\Examen\obj\Debug\Examen.Properties.Resources.resources
+C:\Users\andre\source\repos\Examen\Examen\obj\Debug\ExamenMemorama.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\Examen\Examen\obj\Debug\ExamenMemorama.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Examen\Examen\obj\Debug\Examen.exe
+C:\Users\andre\source\repos\Examen\Examen\obj\Debug\Examen.pdb
+C:\Users\andre\source\repos\Examen\Examen\obj\Debug\ExamenMemorama.csprojAssemblyReference.cache

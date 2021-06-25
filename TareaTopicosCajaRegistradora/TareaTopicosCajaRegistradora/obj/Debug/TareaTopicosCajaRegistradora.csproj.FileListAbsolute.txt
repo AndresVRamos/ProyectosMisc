@@ -1,0 +1,13 @@
+C:\Users\andre\source\repos\TareaTopicosCajaRegistradora\TareaTopicosCajaRegistradora\bin\Debug\TareaTopicosCajaRegistradora.exe.config
+C:\Users\andre\source\repos\TareaTopicosCajaRegistradora\TareaTopicosCajaRegistradora\bin\Debug\TareaTopicosCajaRegistradora.exe
+C:\Users\andre\source\repos\TareaTopicosCajaRegistradora\TareaTopicosCajaRegistradora\bin\Debug\TareaTopicosCajaRegistradora.pdb
+C:\Users\andre\source\repos\TareaTopicosCajaRegistradora\TareaTopicosCajaRegistradora\obj\Debug\TareaTopicosCajaRegistradora.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\TareaTopicosCajaRegistradora\TareaTopicosCajaRegistradora\obj\Debug\TareaTopicosCajaRegistradora.Caja.resources
+C:\Users\andre\source\repos\TareaTopicosCajaRegistradora\TareaTopicosCajaRegistradora\obj\Debug\TareaTopicosCajaRegistradora.Properties.Resources.resources
+C:\Users\andre\source\repos\TareaTopicosCajaRegistradora\TareaTopicosCajaRegistradora\obj\Debug\TareaTopicosCajaRegistradora.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\TareaTopicosCajaRegistradora\TareaTopicosCajaRegistradora\obj\Debug\TareaTopicosCajaRegistradora.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\TareaTopicosCajaRegistradora\TareaTopicosCajaRegistradora\obj\Debug\TareaTopicosCajaRegistradora.exe
+C:\Users\andre\source\repos\TareaTopicosCajaRegistradora\TareaTopicosCajaRegistradora\obj\Debug\TareaTopicosCajaRegistradora.pdb
+C:\Users\andre\source\repos\TareaTopicosCajaRegistradora\TareaTopicosCajaRegistradora\bin\Debug\MetodosCajaRegistradora.dll
+C:\Users\andre\source\repos\TareaTopicosCajaRegistradora\TareaTopicosCajaRegistradora\bin\Debug\MetodosCajaRegistradora.pdb
+C:\Users\andre\source\repos\TareaTopicosCajaRegistradora\TareaTopicosCajaRegistradora\obj\Debug\TareaTopicosCajaRegistradora.csproj.CopyComplete

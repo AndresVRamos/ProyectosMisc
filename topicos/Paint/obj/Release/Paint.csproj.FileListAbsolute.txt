@@ -1,0 +1,10 @@
+C:\Users\andre\source\repos\topicos\Paint\bin\Release\Paint.exe.config
+C:\Users\andre\source\repos\topicos\Paint\bin\Release\Paint.exe
+C:\Users\andre\source\repos\topicos\Paint\bin\Release\Paint.pdb
+C:\Users\andre\source\repos\topicos\Paint\obj\Release\Paint.frmPaint.resources
+C:\Users\andre\source\repos\topicos\Paint\obj\Release\Paint.frmAcercaDe.resources
+C:\Users\andre\source\repos\topicos\Paint\obj\Release\Paint.Properties.Resources.resources
+C:\Users\andre\source\repos\topicos\Paint\obj\Release\Paint.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\topicos\Paint\obj\Release\Paint.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\topicos\Paint\obj\Release\Paint.exe
+C:\Users\andre\source\repos\topicos\Paint\obj\Release\Paint.pdb

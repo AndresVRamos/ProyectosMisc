@@ -1,0 +1,8 @@
+C:\Users\andre\source\repos\Matematicas\Aritmetica\bin\Debug\Aritmetica.dll
+C:\Users\andre\source\repos\Matematicas\Aritmetica\bin\Debug\Aritmetica.pdb
+C:\Users\andre\source\repos\Matematicas\Aritmetica\obj\Debug\Aritmeticav2.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Matematicas\Aritmetica\obj\Debug\Aritmeticav2.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Matematicas\Aritmetica\obj\Debug\Aritmetica.dll
+C:\Users\andre\source\repos\Matematicas\Aritmetica\obj\Debug\Aritmetica.pdb
+C:\Users\andre\source\repos\Matematicas\Aritmetica\bin\Debug\Aritmeticav2.dll
+C:\Users\andre\source\repos\Matematicas\Aritmetica\obj\Debug\Aritmeticav2.csproj.CopyComplete

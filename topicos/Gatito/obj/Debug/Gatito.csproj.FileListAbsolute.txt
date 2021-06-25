@@ -1,0 +1,8 @@
+C:\Users\andre\source\repos\topicos\Gatito\bin\Debug\Gatito.dll
+C:\Users\andre\source\repos\topicos\Gatito\bin\Debug\Gatito.pdb
+C:\Users\andre\source\repos\topicos\Gatito\obj\Debug\Gatito.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\topicos\Gatito\obj\Debug\Gatito.frmGato.resources
+C:\Users\andre\source\repos\topicos\Gatito\obj\Debug\Gatito.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\topicos\Gatito\obj\Debug\Gatito.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\topicos\Gatito\obj\Debug\Gatito.dll
+C:\Users\andre\source\repos\topicos\Gatito\obj\Debug\Gatito.pdb

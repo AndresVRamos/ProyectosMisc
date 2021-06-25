@@ -1,0 +1,10 @@
+C:\Users\andre\source\repos\Examen2Topicos\Ejercicio4Calculadora\bin\Debug\Ejercicio4Calculadora.exe.config
+C:\Users\andre\source\repos\Examen2Topicos\Ejercicio4Calculadora\bin\Debug\Ejercicio4Calculadora.exe
+C:\Users\andre\source\repos\Examen2Topicos\Ejercicio4Calculadora\bin\Debug\Ejercicio4Calculadora.pdb
+C:\Users\andre\source\repos\Examen2Topicos\Ejercicio4Calculadora\obj\Debug\Ejercicio4Calculadora.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Examen2Topicos\Ejercicio4Calculadora\obj\Debug\Ejercicio4Calculadora.frmCalculadora.resources
+C:\Users\andre\source\repos\Examen2Topicos\Ejercicio4Calculadora\obj\Debug\Ejercicio4Calculadora.Properties.Resources.resources
+C:\Users\andre\source\repos\Examen2Topicos\Ejercicio4Calculadora\obj\Debug\Ejercicio4Calculadora.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\Examen2Topicos\Ejercicio4Calculadora\obj\Debug\Ejercicio4Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Examen2Topicos\Ejercicio4Calculadora\obj\Debug\Ejercicio4Calculadora.exe
+C:\Users\andre\source\repos\Examen2Topicos\Ejercicio4Calculadora\obj\Debug\Ejercicio4Calculadora.pdb

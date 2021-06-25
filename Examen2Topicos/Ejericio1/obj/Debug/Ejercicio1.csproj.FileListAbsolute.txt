@@ -1,0 +1,10 @@
+C:\Users\andre\source\repos\Examen2Topicos\Ejericio1\bin\Debug\Ejericio1.exe.config
+C:\Users\andre\source\repos\Examen2Topicos\Ejericio1\bin\Debug\Ejericio1.exe
+C:\Users\andre\source\repos\Examen2Topicos\Ejericio1\bin\Debug\Ejericio1.pdb
+C:\Users\andre\source\repos\Examen2Topicos\Ejericio1\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Examen2Topicos\Ejericio1\obj\Debug\Ejericio1.Ejercicio1frm.resources
+C:\Users\andre\source\repos\Examen2Topicos\Ejericio1\obj\Debug\Ejericio1.Properties.Resources.resources
+C:\Users\andre\source\repos\Examen2Topicos\Ejericio1\obj\Debug\Ejercicio1.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\Examen2Topicos\Ejericio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Examen2Topicos\Ejericio1\obj\Debug\Ejericio1.exe
+C:\Users\andre\source\repos\Examen2Topicos\Ejericio1\obj\Debug\Ejericio1.pdb

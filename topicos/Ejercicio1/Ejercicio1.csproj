@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{17BC7B25-A741-45B6-BFC5-0A95930E380D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Ejercicio1</RootNamespace>
+    <AssemblyName>Ejercicio1</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmComboBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmComboBox.Designer.cs">
+      <DependentUpon>frmComboBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmComboList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmComboList.Designer.cs">
+      <DependentUpon>frmComboList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmListBox2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmListBox2.Designer.cs">
+      <DependentUpon>frmListBox2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCheckBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCheckBox.Designer.cs">
+      <DependentUpon>frmCheckBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCheckListBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCheckListBox.Designer.cs">
+      <DependentUpon>frmCheckListBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGroupBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGroupBox.Designer.cs">
+      <DependentUpon>frmGroupBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKeyLoggerChafita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKeyLoggerChafita.Designer.cs">
+      <DependentUpon>frmKeyLoggerChafita.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKeyPress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKeyPress.Designer.cs">
+      <DependentUpon>frmKeyPress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmListBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmListBox.Designer.cs">
+      <DependentUpon>frmListBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPictureBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPictureBox.Designer.cs">
+      <DependentUpon>frmPictureBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRadioButton.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRadioButton.Designer.cs">
+      <DependentUpon>frmRadioButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTreeView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTreeView.Designer.cs">
+      <DependentUpon>frmTreeView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TextBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TextBox.Designer.cs">
+      <DependentUpon>TextBox.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmComboBox.resx">
+      <DependentUpon>frmComboBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmComboList.resx">
+      <DependentUpon>frmComboList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmListBox2.resx">
+      <DependentUpon>frmListBox2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCheckBox.resx">
+      <DependentUpon>frmCheckBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCheckListBox.resx">
+      <DependentUpon>frmCheckListBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGroupBox.resx">
+      <DependentUpon>frmGroupBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKeyLoggerChafita.resx">
+      <DependentUpon>frmKeyLoggerChafita.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKeyPress.resx">
+      <DependentUpon>frmKeyPress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmListBox.resx">
+      <DependentUpon>frmListBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPictureBox.resx">
+      <DependentUpon>frmPictureBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRadioButton.resx">
+      <DependentUpon>frmRadioButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTreeView.resx">
+      <DependentUpon>frmTreeView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="TextBox.resx">
+      <DependentUpon>TextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\documento-de-texto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\controles.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marcos-de-cuadros.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salida.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sobre-nosotros.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tick.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\order.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\package.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\box.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tree-structure.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\typing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keyboard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\radio-on-button.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

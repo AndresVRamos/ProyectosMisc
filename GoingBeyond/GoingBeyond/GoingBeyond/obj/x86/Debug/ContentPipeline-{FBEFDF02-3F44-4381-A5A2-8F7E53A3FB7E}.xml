@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\p1_wedge.fbx</Source>
+      <Name>Models\p1_wedge</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\andre\source\repos\GoingBeyond\GoingBeyond\GoingBeyond\bin\x86\Debug\Content\Models\p1_wedge.xnb</Output>
+      <Time>2021-05-26T14:29:40.8085836-07:00</Time>
+      <Dependency>
+        <Key>C:\Users\andre\source\repos\GoingBeyond\GoingBeyond\GoingBeyond\obj\x86\Debug\Models\p1_wedge_0.xml</Key>
+        <Value>2021-06-02T14:17:15.5168879-07:00</Value>
+      </Dependency>
+      <Request>C:\Users\andre\source\repos\GoingBeyond\GoingBeyond\GoingBeyond\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Textures\wedge_p1_diff_v1.tga</Source>
+      <Name>Textures\wedge_p1_diff_v1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\andre\source\repos\GoingBeyond\GoingBeyond\GoingBeyond\bin\x86\Debug\Content\Textures\wedge_p1_diff_v1.xnb</Output>
+      <Time>2021-05-26T14:30:34.9535476-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\p1_wedge.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\andre\source\repos\GoingBeyond\GoingBeyond\GoingBeyond\obj\x86\Debug\Models\p1_wedge_0.xml</Output>
+      <Time>2021-05-26T14:29:40.8085836-07:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\wedge_p1_diff_v1.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\andre\source\repos\GoingBeyond\GoingBeyond\GoingBeyond\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb</Output>
+      <Time>2021-05-26T14:30:34.9535476-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\engine_2.wav</Source>
+      <Name>Audio\Waves\engine_2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\andre\source\repos\GoingBeyond\GoingBeyond\GoingBeyond\bin\x86\Debug\Content\Audio\Waves\engine_2.xnb</Output>
+      <Time>2021-06-09T14:20:08.8334704-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\hyperspace_activate.wav</Source>
+      <Name>Audio\Waves\hyperspace_activate</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\andre\source\repos\GoingBeyond\GoingBeyond\GoingBeyond\bin\x86\Debug\Content\Audio\Waves\hyperspace_activate.xnb</Output>
+      <Time>2021-06-09T14:20:08.8544131-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\asteroid1.x</Source>
+      <Name>Models\asteroid1</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\andre\source\repos\GoingBeyond\GoingBeyond\GoingBeyond\bin\x86\Debug\Content\Models\asteroid1.xnb</Output>
+      <Time>2021-06-13T17:04:48.6525843-07:00</Time>
+      <Dependency>
+        <Key>C:\Users\andre\source\repos\GoingBeyond\GoingBeyond\GoingBeyond\obj\x86\Debug\Models\asteroid1_0.xml</Key>
+        <Value>2021-06-13T17:25:11.5852242-07:00</Value>
+      </Dependency>
+      <Request>C:\Users\andre\source\repos\GoingBeyond\GoingBeyond\GoingBeyond\bin\x86\Debug\Content\textures\asteroid1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\pea_proj.x</Source>
+      <Name>Models\pea_proj</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\andre\source\repos\GoingBeyond\GoingBeyond\GoingBeyond\bin\x86\Debug\Content\Models\pea_proj.xnb</Output>
+      <Time>2021-06-13T17:04:48.6675519-07:00</Time>
+      <Dependency>
+        <Key>C:\Users\andre\source\repos\GoingBeyond\GoingBeyond\GoingBeyond\obj\x86\Debug\Models\pea_proj_0.xml</Key>
+        <Value>2021-06-13T17:25:11.7806739-07:00</Value>
+      </Dependency>
+      <Request>C:\Users\andre\source\repos\GoingBeyond\GoingBeyond\GoingBeyond\bin\x86\Debug\Content\textures\pea_proj_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Textures\asteroid1.tga</Source>
+      <Name>Textures\asteroid1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\andre\source\repos\GoingBeyond\GoingBeyond\GoingBeyond\bin\x86\Debug\Content\Textures\asteroid1.xnb</Output>
+      <Time>2021-06-13T17:05:46.5192703-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\B1_stars.tga</Source>
+      <Name>Textures\B1_stars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\andre\source\repos\GoingBeyond\GoingBeyond\GoingBeyond\bin\x86\Debug\Content\Textures\B1_stars.xnb</Output>
+      <Time>2021-06-13T17:05:46.5312304-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\pea_proj.tga</Source>
+      <Name>Textures\pea_proj</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\andre\source\repos\GoingBeyond\GoingBeyond\GoingBeyond\bin\x86\Debug\Content\Textures\pea_proj.xnb</Output>
+      <Time>2021-06-13T17:05:46.5462183-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\explosion2.wav</Source>
+      <Name>Audio\Waves\explosion2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\andre\source\repos\GoingBeyond\GoingBeyond\GoingBeyond\bin\x86\Debug\Content\Audio\Waves\explosion2.xnb</Output>
+      <Time>2021-06-13T17:05:05.5670022-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\explosion3.wav</Source>
+      <Name>Audio\Waves\explosion3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\andre\source\repos\GoingBeyond\GoingBeyond\GoingBeyond\bin\x86\Debug\Content\Audio\Waves\explosion3.xnb</Output>
+      <Time>2021-06-13T17:05:05.5560315-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\tx0_fire1.wav</Source>
+      <Name>Audio\Waves\tx0_fire1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\andre\source\repos\GoingBeyond\GoingBeyond\GoingBeyond\bin\x86\Debug\Content\Audio\Waves\tx0_fire1.xnb</Output>
+      <Time>2021-06-13T17:05:05.5620156-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Lucida Console.spritefont</Source>
+      <Name>Fonts\Lucida Console</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\andre\source\repos\GoingBeyond\GoingBeyond\GoingBeyond\bin\x86\Debug\Content\Fonts\Lucida Console.xnb</Output>
+      <Time>2021-06-13T17:05:35.1387287-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\asteroid1.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\andre\source\repos\GoingBeyond\GoingBeyond\GoingBeyond\obj\x86\Debug\Models\asteroid1_0.xml</Output>
+      <Time>2021-06-13T17:04:48.6525843-07:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\asteroid1.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\andre\source\repos\GoingBeyond\GoingBeyond\GoingBeyond\bin\x86\Debug\Content\textures\asteroid1_0.xnb</Output>
+      <Time>2021-06-13T17:05:46.5192703-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\pea_proj.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\andre\source\repos\GoingBeyond\GoingBeyond\GoingBeyond\obj\x86\Debug\Models\pea_proj_0.xml</Output>
+      <Time>2021-06-13T17:04:48.6675519-07:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\pea_proj.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\andre\source\repos\GoingBeyond\GoingBeyond\GoingBeyond\bin\x86\Debug\Content\textures\pea_proj_0.xnb</Output>
+      <Time>2021-06-13T17:05:46.5462183-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Kootenay.spritefont</Source>
+      <Name>Fonts\Kootenay</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\andre\source\repos\GoingBeyond\GoingBeyond\GoingBeyond\bin\x86\Debug\Content\Fonts\Kootenay.xnb</Output>
+      <Time>2021-06-13T19:51:09.4403346-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{FBEFDF02-3F44-4381-A5A2-8F7E53A3FB7E}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\andre\source\repos\GoingBeyond\GoingBeyond\GoingBeyondContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\andre\source\repos\GoingBeyond\GoingBeyond\GoingBeyond\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\andre\source\repos\GoingBeyond\GoingBeyond\GoingBeyond\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\andre\source\repos\GoingBeyond\GoingBeyond\GoingBeyond\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2021-05-14T15:02:43.2014007-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

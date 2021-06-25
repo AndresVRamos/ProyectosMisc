@@ -1,0 +1,17 @@
+Content\Models\p1_wedge.xnb
+Content\Textures\wedge_p1_diff_v1.xnb
+Content\textures\wedge_p1_diff_v1_0.xnb
+Content\Audio\Waves\engine_2.xnb
+Content\Audio\Waves\hyperspace_activate.xnb
+Content\Models\asteroid1.xnb
+Content\Models\pea_proj.xnb
+Content\Textures\asteroid1.xnb
+Content\Textures\B1_stars.xnb
+Content\Textures\pea_proj.xnb
+Content\Audio\Waves\explosion2.xnb
+Content\Audio\Waves\explosion3.xnb
+Content\Audio\Waves\tx0_fire1.xnb
+Content\Fonts\Lucida Console.xnb
+Content\textures\asteroid1_0.xnb
+Content\textures\pea_proj_0.xnb
+Content\Fonts\Kootenay.xnb

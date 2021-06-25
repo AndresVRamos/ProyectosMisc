@@ -1,0 +1,10 @@
+C:\Users\andre\source\repos\Examen\ExamenLista\bin\Debug\ExamenLista.exe.config
+C:\Users\andre\source\repos\Examen\ExamenLista\bin\Debug\ExamenLista.exe
+C:\Users\andre\source\repos\Examen\ExamenLista\bin\Debug\ExamenLista.pdb
+C:\Users\andre\source\repos\Examen\ExamenLista\obj\Debug\ExamenLista.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Examen\ExamenLista\obj\Debug\ExamenLista.frmLista.resources
+C:\Users\andre\source\repos\Examen\ExamenLista\obj\Debug\ExamenLista.Properties.Resources.resources
+C:\Users\andre\source\repos\Examen\ExamenLista\obj\Debug\ExamenLista.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\Examen\ExamenLista\obj\Debug\ExamenLista.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Examen\ExamenLista\obj\Debug\ExamenLista.exe
+C:\Users\andre\source\repos\Examen\ExamenLista\obj\Debug\ExamenLista.pdb

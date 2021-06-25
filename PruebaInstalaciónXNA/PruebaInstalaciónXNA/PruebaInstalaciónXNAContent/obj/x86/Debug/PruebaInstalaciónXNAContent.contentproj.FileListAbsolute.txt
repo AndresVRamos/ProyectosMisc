@@ -1,0 +1,2 @@
+C:\Users\andre\source\repos\PruebaInstalaciónXNA\PruebaInstalaciónXNA\PruebaInstalaciónXNAContent\obj\x86\Debug\PruebaInstalaciónXNAContent.contentprojAssemblyReference.cache
+C:\Users\andre\source\repos\PruebaInstalaciónXNA\PruebaInstalaciónXNA\PruebaInstalaciónXNAContent\obj\x86\Debug\PruebaInstalaciónXNAContent.contentproj.CoreCompileInputs.cache

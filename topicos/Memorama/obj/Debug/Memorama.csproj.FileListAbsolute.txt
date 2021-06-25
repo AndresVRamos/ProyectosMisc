@@ -1,0 +1,10 @@
+C:\Users\andre\source\repos\topicos\Memorama\bin\Debug\Memorama.exe.config
+C:\Users\andre\source\repos\topicos\Memorama\bin\Debug\Memorama.exe
+C:\Users\andre\source\repos\topicos\Memorama\bin\Debug\Memorama.pdb
+C:\Users\andre\source\repos\topicos\Memorama\obj\Debug\Memorama.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\topicos\Memorama\obj\Debug\Memorama.frmMemorama.resources
+C:\Users\andre\source\repos\topicos\Memorama\obj\Debug\Memorama.Properties.Resources.resources
+C:\Users\andre\source\repos\topicos\Memorama\obj\Debug\Memorama.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\topicos\Memorama\obj\Debug\Memorama.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\topicos\Memorama\obj\Debug\Memorama.exe
+C:\Users\andre\source\repos\topicos\Memorama\obj\Debug\Memorama.pdb

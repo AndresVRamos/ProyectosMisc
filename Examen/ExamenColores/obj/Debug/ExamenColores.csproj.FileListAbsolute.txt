@@ -1,0 +1,10 @@
+C:\Users\andre\source\repos\Examen\ExamenColores\obj\Debug\ExamenColores.frmColores.resources
+C:\Users\andre\source\repos\Examen\ExamenColores\obj\Debug\ExamenColores.Properties.Resources.resources
+C:\Users\andre\source\repos\Examen\ExamenColores\obj\Debug\ExamenColores.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\Examen\ExamenColores\obj\Debug\ExamenColores.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Examen\ExamenColores\bin\Debug\ExamenColores.exe.config
+C:\Users\andre\source\repos\Examen\ExamenColores\bin\Debug\ExamenColores.exe
+C:\Users\andre\source\repos\Examen\ExamenColores\bin\Debug\ExamenColores.pdb
+C:\Users\andre\source\repos\Examen\ExamenColores\obj\Debug\ExamenColores.exe
+C:\Users\andre\source\repos\Examen\ExamenColores\obj\Debug\ExamenColores.pdb
+C:\Users\andre\source\repos\Examen\ExamenColores\obj\Debug\ExamenColores.csprojAssemblyReference.cache

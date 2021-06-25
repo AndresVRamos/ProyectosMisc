@@ -1,0 +1,10 @@
+C:\Users\andre\source\repos\CirculodeBresenham\CirculodeBresenham\bin\Release\CirculodeBresenham.exe.config
+C:\Users\andre\source\repos\CirculodeBresenham\CirculodeBresenham\bin\Release\CirculodeBresenham.exe
+C:\Users\andre\source\repos\CirculodeBresenham\CirculodeBresenham\bin\Release\CirculodeBresenham.pdb
+C:\Users\andre\source\repos\CirculodeBresenham\CirculodeBresenham\obj\Release\CirculodeBresenham.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\CirculodeBresenham\CirculodeBresenham\obj\Release\CirculodeBresenham.frmCirculo.resources
+C:\Users\andre\source\repos\CirculodeBresenham\CirculodeBresenham\obj\Release\CirculodeBresenham.Properties.Resources.resources
+C:\Users\andre\source\repos\CirculodeBresenham\CirculodeBresenham\obj\Release\CirculodeBresenham.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\CirculodeBresenham\CirculodeBresenham\obj\Release\CirculodeBresenham.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\CirculodeBresenham\CirculodeBresenham\obj\Release\CirculodeBresenham.exe
+C:\Users\andre\source\repos\CirculodeBresenham\CirculodeBresenham\obj\Release\CirculodeBresenham.pdb

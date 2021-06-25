@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp1.0</TargetFramework>
+    <RootNamespace>AndresOMaticV2._0</RootNamespace>
+    <StartupObject></StartupObject>
+    <ApplicationIcon />
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <Prefer32Bit>true</Prefer32Bit>
+    <OutputPath>bin\Debug\</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\netcoreapp2.1\config.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DSharpPlus" Version="4.0.0-nightly-00703" />
+    <PackageReference Include="DSharpPlus.CommandsNext" Version="4.0.0-nightly-00703" />
+    <PackageReference Include="DSharpPlus.Interactivity" Version="4.0.0-nightly-00703" />
+  </ItemGroup>
+
+</Project>

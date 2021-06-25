@@ -1,0 +1,10 @@
+C:\Users\andre\source\repos\LineaBresenham\LineaBresenham\obj\Debug\LineaBresenham.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\LineaBresenham\LineaBresenham\obj\Debug\LineaBresenham.Form1.resources
+C:\Users\andre\source\repos\LineaBresenham\LineaBresenham\obj\Debug\LineaBresenham.Properties.Resources.resources
+C:\Users\andre\source\repos\LineaBresenham\LineaBresenham\obj\Debug\LineaBresenham.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\LineaBresenham\LineaBresenham\obj\Debug\LineaBresenham.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\LineaBresenham\LineaBresenham\bin\Debug\LineaBresenham.exe.config
+C:\Users\andre\source\repos\LineaBresenham\LineaBresenham\bin\Debug\LineaBresenham.exe
+C:\Users\andre\source\repos\LineaBresenham\LineaBresenham\bin\Debug\LineaBresenham.pdb
+C:\Users\andre\source\repos\LineaBresenham\LineaBresenham\obj\Debug\LineaBresenham.exe
+C:\Users\andre\source\repos\LineaBresenham\LineaBresenham\obj\Debug\LineaBresenham.pdb

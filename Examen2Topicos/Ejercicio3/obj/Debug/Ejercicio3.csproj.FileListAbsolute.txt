@@ -1,0 +1,9 @@
+C:\Users\andre\source\repos\Examen2Topicos\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\andre\source\repos\Examen2Topicos\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\andre\source\repos\Examen2Topicos\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\andre\source\repos\Examen2Topicos\Ejercicio3\obj\Debug\Ejercicio3.Ejercicio3.resources
+C:\Users\andre\source\repos\Examen2Topicos\Ejercicio3\obj\Debug\Ejercicio3.Properties.Resources.resources
+C:\Users\andre\source\repos\Examen2Topicos\Ejercicio3\obj\Debug\Ejercicio3.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\Examen2Topicos\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Examen2Topicos\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\andre\source\repos\Examen2Topicos\Ejercicio3\obj\Debug\Ejercicio3.pdb

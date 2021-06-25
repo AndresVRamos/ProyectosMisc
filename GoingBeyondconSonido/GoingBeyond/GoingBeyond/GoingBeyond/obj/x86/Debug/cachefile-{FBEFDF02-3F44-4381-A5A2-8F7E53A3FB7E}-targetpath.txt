@@ -1,0 +1,5 @@
+Content\Models\p1_wedge.xnb
+Content\Textures\wedge_p1_diff_v1.xnb
+Content\textures\wedge_p1_diff_v1_0.xnb
+Content\Audio\Waves\engine_2.xnb
+Content\Audio\Waves\hyperspace_activate.xnb

@@ -1,0 +1,10 @@
+C:\Users\andre\source\repos\PaintGraficacion\PaintGraficacion\obj\Debug\PaintGraficacion.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\PaintGraficacion\PaintGraficacion\obj\Debug\PaintGraficacion.frmPaint.resources
+C:\Users\andre\source\repos\PaintGraficacion\PaintGraficacion\obj\Debug\PaintGraficacion.Properties.Resources.resources
+C:\Users\andre\source\repos\PaintGraficacion\PaintGraficacion\obj\Debug\PaintGraficacion.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\PaintGraficacion\PaintGraficacion\obj\Debug\PaintGraficacion.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\PaintGraficacion\PaintGraficacion\bin\Debug\PaintGraficacion.exe.config
+C:\Users\andre\source\repos\PaintGraficacion\PaintGraficacion\bin\Debug\PaintGraficacion.exe
+C:\Users\andre\source\repos\PaintGraficacion\PaintGraficacion\bin\Debug\PaintGraficacion.pdb
+C:\Users\andre\source\repos\PaintGraficacion\PaintGraficacion\obj\Debug\PaintGraficacion.exe
+C:\Users\andre\source\repos\PaintGraficacion\PaintGraficacion\obj\Debug\PaintGraficacion.pdb

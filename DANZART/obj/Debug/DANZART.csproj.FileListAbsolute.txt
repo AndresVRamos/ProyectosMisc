@@ -1,0 +1,305 @@
+C:\Users\maria\source\repos\DANZART\bin\Debug\DANZART.exe
+C:\Users\maria\source\repos\DANZART\bin\Debug\DANZART.exe.config
+C:\Users\maria\source\repos\DANZART\obj\Debug\DANZART.csprojAssemblyReference.cache
+C:\Users\maria\source\repos\DANZART\obj\Debug\DANZART.frmAlumnos.resources
+C:\Users\maria\source\repos\DANZART\obj\Debug\DANZART.frmEmpleados.resources
+C:\Users\maria\source\repos\DANZART\obj\Debug\DANZART.frmGrupos.resources
+C:\Users\maria\source\repos\DANZART\obj\Debug\DANZART.frmHorario.resources
+C:\Users\maria\source\repos\DANZART\obj\Debug\DANZART.Inicio_de_sesion.resources
+C:\Users\maria\source\repos\DANZART\obj\Debug\DANZART.frmInicio.resources
+C:\Users\maria\source\repos\DANZART\obj\Debug\DANZART.frmInscribir.resources
+C:\Users\maria\source\repos\DANZART\obj\Debug\DANZART.frmMensualidades.resources
+C:\Users\maria\source\repos\DANZART\obj\Debug\DANZART.Properties.Resources.resources
+C:\Users\maria\source\repos\DANZART\obj\Debug\DANZART.csproj.GenerateResource.cache
+C:\Users\maria\source\repos\DANZART\obj\Debug\DANZART.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\DANZART\obj\Debug\DANZART.exe
+C:\Users\maria\source\repos\DANZART\obj\Debug\DANZART.pdb
+C:\Users\maria\source\repos\DANZART\bin\Debug\DANZART.pdb
+C:\Users\Silva\Desktop\DANZART\bin\Debug\DANZART.exe.config
+C:\Users\Silva\Desktop\DANZART\bin\Debug\DANZART.exe
+C:\Users\Silva\Desktop\DANZART\bin\Debug\DANZART.pdb
+C:\Users\Silva\Desktop\DANZART\obj\Debug\DANZART.csprojAssemblyReference.cache
+C:\Users\Silva\Desktop\DANZART\obj\Debug\DANZART.frmAlumnos.resources
+C:\Users\Silva\Desktop\DANZART\obj\Debug\DANZART.frmEmpleados.resources
+C:\Users\Silva\Desktop\DANZART\obj\Debug\DANZART.frmGrupos.resources
+C:\Users\Silva\Desktop\DANZART\obj\Debug\DANZART.frmHorario.resources
+C:\Users\Silva\Desktop\DANZART\obj\Debug\DANZART.Inicio_de_sesion.resources
+C:\Users\Silva\Desktop\DANZART\obj\Debug\DANZART.frmInicio.resources
+C:\Users\Silva\Desktop\DANZART\obj\Debug\DANZART.frmInscribir.resources
+C:\Users\Silva\Desktop\DANZART\obj\Debug\DANZART.frmMensualidades.resources
+C:\Users\Silva\Desktop\DANZART\obj\Debug\DANZART.Properties.Resources.resources
+C:\Users\Silva\Desktop\DANZART\obj\Debug\DANZART.csproj.GenerateResource.cache
+C:\Users\Silva\Desktop\DANZART\obj\Debug\DANZART.csproj.CoreCompileInputs.cache
+C:\Users\Silva\Desktop\DANZART\obj\Debug\DANZART.exe
+C:\Users\Silva\Desktop\DANZART\obj\Debug\DANZART.pdb
+C:\Users\Silva\Desktop\DANZART\obj\Debug\DANZART.frmAcercaDe.resources
+D:\DANZART\bin\Debug\DANZART.exe.config
+D:\DANZART\bin\Debug\DANZART.exe
+D:\DANZART\bin\Debug\DANZART.pdb
+D:\DANZART\obj\Debug\DANZART.csprojAssemblyReference.cache
+D:\DANZART\obj\Debug\DANZART.frmAcercaDe.resources
+D:\DANZART\obj\Debug\DANZART.frmAlumnos.resources
+D:\DANZART\obj\Debug\DANZART.frmEmpleados.resources
+D:\DANZART\obj\Debug\DANZART.frmGrupos.resources
+D:\DANZART\obj\Debug\DANZART.frmHorario.resources
+D:\DANZART\obj\Debug\DANZART.Inicio_de_sesion.resources
+D:\DANZART\obj\Debug\DANZART.frmInicio.resources
+D:\DANZART\obj\Debug\DANZART.frmInscribir.resources
+D:\DANZART\obj\Debug\DANZART.frmMensualidades.resources
+D:\DANZART\obj\Debug\DANZART.Properties.Resources.resources
+D:\DANZART\obj\Debug\DANZART.csproj.GenerateResource.cache
+D:\DANZART\obj\Debug\DANZART.csproj.CoreCompileInputs.cache
+D:\DANZART\obj\Debug\DANZART.exe
+D:\DANZART\obj\Debug\DANZART.pdb
+D:\DANZART\obj\Debug\DANZART.ModificarAlumnos.resources
+C:\Users\Silva\Desktop\Proyecto BD\DANZART\bin\Debug\DANZART.exe.config
+C:\Users\Silva\Desktop\Proyecto BD\DANZART\bin\Debug\DANZART.exe
+C:\Users\Silva\Desktop\Proyecto BD\DANZART\bin\Debug\DANZART.pdb
+C:\Users\Silva\Desktop\Proyecto BD\DANZART\obj\Debug\DANZART.csprojAssemblyReference.cache
+C:\Users\Silva\Desktop\Proyecto BD\DANZART\obj\Debug\DANZART.frmAcercaDe.resources
+C:\Users\Silva\Desktop\Proyecto BD\DANZART\obj\Debug\DANZART.frmAlumnos.resources
+C:\Users\Silva\Desktop\Proyecto BD\DANZART\obj\Debug\DANZART.frmEmpleados.resources
+C:\Users\Silva\Desktop\Proyecto BD\DANZART\obj\Debug\DANZART.frmGrupos.resources
+C:\Users\Silva\Desktop\Proyecto BD\DANZART\obj\Debug\DANZART.frmHorario.resources
+C:\Users\Silva\Desktop\Proyecto BD\DANZART\obj\Debug\DANZART.Inicio_de_sesion.resources
+C:\Users\Silva\Desktop\Proyecto BD\DANZART\obj\Debug\DANZART.frmInicio.resources
+C:\Users\Silva\Desktop\Proyecto BD\DANZART\obj\Debug\DANZART.frmInscribir.resources
+C:\Users\Silva\Desktop\Proyecto BD\DANZART\obj\Debug\DANZART.frmMensualidades.resources
+C:\Users\Silva\Desktop\Proyecto BD\DANZART\obj\Debug\DANZART.Properties.Resources.resources
+C:\Users\Silva\Desktop\Proyecto BD\DANZART\obj\Debug\DANZART.csproj.GenerateResource.cache
+C:\Users\Silva\Desktop\Proyecto BD\DANZART\obj\Debug\DANZART.csproj.CoreCompileInputs.cache
+C:\Users\Silva\Desktop\Proyecto BD\DANZART\obj\Debug\DANZART.exe
+C:\Users\Silva\Desktop\Proyecto BD\DANZART\obj\Debug\DANZART.pdb
+C:\Users\Silva\Desktop\Proyecto BD\DANZART\obj\Debug\DANZART.frmModificarEmpleados.resources
+C:\Users\Silva\Desktop\Proyecto BD\DANZART\obj\Debug\DANZART.frmModificarGrupos.resources
+C:\Users\Silva\Desktop\Proyecto BD\DANZART\obj\Debug\DANZART.frmModificarClases.resources
+C:\Users\Silva\Desktop\Proyecto BD\DANZART\obj\Debug\DANZART.frmModificarHorario.resources
+C:\Users\Silva\Desktop\Proyecto BD\DANZART\obj\Debug\DANZART.frmModificarMensualidad.resources
+D:\DANZART\DANZART\bin\Debug\DANZART.exe.config
+D:\DANZART\DANZART\bin\Debug\DANZART.exe
+D:\DANZART\DANZART\bin\Debug\DANZART.pdb
+D:\DANZART\DANZART\obj\Debug\DANZART.csprojAssemblyReference.cache
+D:\DANZART\DANZART\obj\Debug\DANZART.frmModificarClases.resources
+D:\DANZART\DANZART\obj\Debug\DANZART.frmModificarEmpleados.resources
+D:\DANZART\DANZART\obj\Debug\DANZART.frmModificarGrupos.resources
+D:\DANZART\DANZART\obj\Debug\DANZART.frmModificarHorario.resources
+D:\DANZART\DANZART\obj\Debug\DANZART.frmModificarMensualidad.resources
+D:\DANZART\DANZART\obj\Debug\DANZART.frmAcercaDe.resources
+D:\DANZART\DANZART\obj\Debug\DANZART.frmAlumnos.resources
+D:\DANZART\DANZART\obj\Debug\DANZART.frmEmpleados.resources
+D:\DANZART\DANZART\obj\Debug\DANZART.frmGrupos.resources
+D:\DANZART\DANZART\obj\Debug\DANZART.frmHorario.resources
+D:\DANZART\DANZART\obj\Debug\DANZART.Inicio_de_sesion.resources
+D:\DANZART\DANZART\obj\Debug\DANZART.frmInicio.resources
+D:\DANZART\DANZART\obj\Debug\DANZART.frmInscribir.resources
+D:\DANZART\DANZART\obj\Debug\DANZART.frmMensualidades.resources
+D:\DANZART\DANZART\obj\Debug\DANZART.Properties.Resources.resources
+D:\DANZART\DANZART\obj\Debug\DANZART.csproj.GenerateResource.cache
+D:\DANZART\DANZART\obj\Debug\DANZART.csproj.CoreCompileInputs.cache
+D:\DANZART\DANZART\obj\Debug\DANZART.exe
+D:\DANZART\DANZART\obj\Debug\DANZART.pdb
+C:\Users\Silva\Desktop\Proyecto Validado\DANZART\bin\Debug\DANZART.exe.config
+C:\Users\Silva\Desktop\Proyecto Validado\DANZART\bin\Debug\DANZART.exe
+C:\Users\Silva\Desktop\Proyecto Validado\DANZART\bin\Debug\DANZART.pdb
+C:\Users\Silva\Desktop\Proyecto Validado\DANZART\obj\Debug\DANZART.csprojAssemblyReference.cache
+C:\Users\Silva\Desktop\Proyecto Validado\DANZART\obj\Debug\DANZART.frmModificarClases.resources
+C:\Users\Silva\Desktop\Proyecto Validado\DANZART\obj\Debug\DANZART.frmModificarEmpleados.resources
+C:\Users\Silva\Desktop\Proyecto Validado\DANZART\obj\Debug\DANZART.frmModificarGrupos.resources
+C:\Users\Silva\Desktop\Proyecto Validado\DANZART\obj\Debug\DANZART.frmModificarHorario.resources
+C:\Users\Silva\Desktop\Proyecto Validado\DANZART\obj\Debug\DANZART.frmModificarMensualidad.resources
+C:\Users\Silva\Desktop\Proyecto Validado\DANZART\obj\Debug\DANZART.ModificarAlumnos.resources
+C:\Users\Silva\Desktop\Proyecto Validado\DANZART\obj\Debug\DANZART.frmAcercaDe.resources
+C:\Users\Silva\Desktop\Proyecto Validado\DANZART\obj\Debug\DANZART.frmAlumnos.resources
+C:\Users\Silva\Desktop\Proyecto Validado\DANZART\obj\Debug\DANZART.frmEmpleados.resources
+C:\Users\Silva\Desktop\Proyecto Validado\DANZART\obj\Debug\DANZART.frmGrupos.resources
+C:\Users\Silva\Desktop\Proyecto Validado\DANZART\obj\Debug\DANZART.frmHorario.resources
+C:\Users\Silva\Desktop\Proyecto Validado\DANZART\obj\Debug\DANZART.Inicio_de_sesion.resources
+C:\Users\Silva\Desktop\Proyecto Validado\DANZART\obj\Debug\DANZART.frmInicio.resources
+C:\Users\Silva\Desktop\Proyecto Validado\DANZART\obj\Debug\DANZART.frmInscribir.resources
+C:\Users\Silva\Desktop\Proyecto Validado\DANZART\obj\Debug\DANZART.frmMensualidades.resources
+C:\Users\Silva\Desktop\Proyecto Validado\DANZART\obj\Debug\DANZART.Properties.Resources.resources
+C:\Users\Silva\Desktop\Proyecto Validado\DANZART\obj\Debug\DANZART.csproj.GenerateResource.cache
+C:\Users\Silva\Desktop\Proyecto Validado\DANZART\obj\Debug\DANZART.csproj.CoreCompileInputs.cache
+C:\Users\Silva\Desktop\Proyecto Validado\DANZART\obj\Debug\DANZART.exe
+C:\Users\Silva\Desktop\Proyecto Validado\DANZART\obj\Debug\DANZART.pdb
+C:\Users\maria\Downloads\BD\DANZART\bin\Debug\DANZART.exe.config
+C:\Users\maria\Downloads\BD\DANZART\bin\Debug\DANZART.exe
+C:\Users\maria\Downloads\BD\DANZART\bin\Debug\DANZART.pdb
+C:\Users\maria\Downloads\BD\DANZART\obj\Debug\DANZART.csprojAssemblyReference.cache
+C:\Users\maria\Downloads\BD\DANZART\obj\Debug\DANZART.frmModificarClases.resources
+C:\Users\maria\Downloads\BD\DANZART\obj\Debug\DANZART.frmModificarEmpleados.resources
+C:\Users\maria\Downloads\BD\DANZART\obj\Debug\DANZART.frmModificarGrupos.resources
+C:\Users\maria\Downloads\BD\DANZART\obj\Debug\DANZART.frmModificarHorario.resources
+C:\Users\maria\Downloads\BD\DANZART\obj\Debug\DANZART.frmModificarMensualidad.resources
+C:\Users\maria\Downloads\BD\DANZART\obj\Debug\DANZART.frmAcercaDe.resources
+C:\Users\maria\Downloads\BD\DANZART\obj\Debug\DANZART.frmAlumnos.resources
+C:\Users\maria\Downloads\BD\DANZART\obj\Debug\DANZART.frmEmpleados.resources
+C:\Users\maria\Downloads\BD\DANZART\obj\Debug\DANZART.frmGrupos.resources
+C:\Users\maria\Downloads\BD\DANZART\obj\Debug\DANZART.frmHorario.resources
+C:\Users\maria\Downloads\BD\DANZART\obj\Debug\DANZART.Inicio_de_sesion.resources
+C:\Users\maria\Downloads\BD\DANZART\obj\Debug\DANZART.frmInicio.resources
+C:\Users\maria\Downloads\BD\DANZART\obj\Debug\DANZART.frmInscribir.resources
+C:\Users\maria\Downloads\BD\DANZART\obj\Debug\DANZART.frmMensualidades.resources
+C:\Users\maria\Downloads\BD\DANZART\obj\Debug\DANZART.Properties.Resources.resources
+C:\Users\maria\Downloads\BD\DANZART\obj\Debug\DANZART.csproj.GenerateResource.cache
+C:\Users\maria\Downloads\BD\DANZART\obj\Debug\DANZART.csproj.CoreCompileInputs.cache
+C:\Users\maria\Downloads\BD\DANZART\obj\Debug\DANZART.exe
+C:\Users\maria\Downloads\BD\DANZART\obj\Debug\DANZART.pdb
+C:\Users\maria\Downloads\BD\DANZART\obj\Debug\DANZART.frmModificarAlumnos.resources
+C:\Users\Silva\Desktop\Proyecto Diseño\DANZART\bin\Debug\DANZART.exe.config
+C:\Users\Silva\Desktop\Proyecto Diseño\DANZART\bin\Debug\DANZART.exe
+C:\Users\Silva\Desktop\Proyecto Diseño\DANZART\bin\Debug\DANZART.pdb
+C:\Users\Silva\Desktop\Proyecto Diseño\DANZART\obj\Debug\DANZART.csprojAssemblyReference.cache
+C:\Users\Silva\Desktop\Proyecto Diseño\DANZART\obj\Debug\DANZART.frmModificarClases.resources
+C:\Users\Silva\Desktop\Proyecto Diseño\DANZART\obj\Debug\DANZART.frmModificarEmpleados.resources
+C:\Users\Silva\Desktop\Proyecto Diseño\DANZART\obj\Debug\DANZART.frmModificarGrupos.resources
+C:\Users\Silva\Desktop\Proyecto Diseño\DANZART\obj\Debug\DANZART.frmModificarHorario.resources
+C:\Users\Silva\Desktop\Proyecto Diseño\DANZART\obj\Debug\DANZART.frmModificarMensualidad.resources
+C:\Users\Silva\Desktop\Proyecto Diseño\DANZART\obj\Debug\DANZART.frmModificarAlumnos.resources
+C:\Users\Silva\Desktop\Proyecto Diseño\DANZART\obj\Debug\DANZART.frmAcercaDe.resources
+C:\Users\Silva\Desktop\Proyecto Diseño\DANZART\obj\Debug\DANZART.frmAlumnos.resources
+C:\Users\Silva\Desktop\Proyecto Diseño\DANZART\obj\Debug\DANZART.frmEmpleados.resources
+C:\Users\Silva\Desktop\Proyecto Diseño\DANZART\obj\Debug\DANZART.frmGrupos.resources
+C:\Users\Silva\Desktop\Proyecto Diseño\DANZART\obj\Debug\DANZART.frmHorario.resources
+C:\Users\Silva\Desktop\Proyecto Diseño\DANZART\obj\Debug\DANZART.Inicio_de_sesion.resources
+C:\Users\Silva\Desktop\Proyecto Diseño\DANZART\obj\Debug\DANZART.frmInicio.resources
+C:\Users\Silva\Desktop\Proyecto Diseño\DANZART\obj\Debug\DANZART.frmInscribir.resources
+C:\Users\Silva\Desktop\Proyecto Diseño\DANZART\obj\Debug\DANZART.frmMensualidades.resources
+C:\Users\Silva\Desktop\Proyecto Diseño\DANZART\obj\Debug\DANZART.Properties.Resources.resources
+C:\Users\Silva\Desktop\Proyecto Diseño\DANZART\obj\Debug\DANZART.csproj.GenerateResource.cache
+C:\Users\Silva\Desktop\Proyecto Diseño\DANZART\obj\Debug\DANZART.csproj.CoreCompileInputs.cache
+C:\Users\Silva\Desktop\Proyecto Diseño\DANZART\obj\Debug\DANZART.exe
+C:\Users\Silva\Desktop\Proyecto Diseño\DANZART\obj\Debug\DANZART.pdb
+D:\DANZART\DANZART\obj\Debug\DANZART.frmModificarAlumnos.resources
+C:\Users\maria\Downloads\DANZART\bin\Debug\DANZART.exe.config
+C:\Users\maria\Downloads\DANZART\bin\Debug\DANZART.exe
+C:\Users\maria\Downloads\DANZART\bin\Debug\DANZART.pdb
+C:\Users\maria\Downloads\DANZART\obj\Debug\DANZART.csprojAssemblyReference.cache
+C:\Users\maria\Downloads\DANZART\obj\Debug\DANZART.frmModificarClases.resources
+C:\Users\maria\Downloads\DANZART\obj\Debug\DANZART.frmModificarEmpleados.resources
+C:\Users\maria\Downloads\DANZART\obj\Debug\DANZART.frmModificarGrupos.resources
+C:\Users\maria\Downloads\DANZART\obj\Debug\DANZART.frmModificarHorario.resources
+C:\Users\maria\Downloads\DANZART\obj\Debug\DANZART.frmModificarMensualidad.resources
+C:\Users\maria\Downloads\DANZART\obj\Debug\DANZART.frmModificarAlumnos.resources
+C:\Users\maria\Downloads\DANZART\obj\Debug\DANZART.frmAcercaDe.resources
+C:\Users\maria\Downloads\DANZART\obj\Debug\DANZART.frmAlumnos.resources
+C:\Users\maria\Downloads\DANZART\obj\Debug\DANZART.frmEmpleados.resources
+C:\Users\maria\Downloads\DANZART\obj\Debug\DANZART.frmGrupos.resources
+C:\Users\maria\Downloads\DANZART\obj\Debug\DANZART.frmHorario.resources
+C:\Users\maria\Downloads\DANZART\obj\Debug\DANZART.Inicio_de_sesion.resources
+C:\Users\maria\Downloads\DANZART\obj\Debug\DANZART.frmInicio.resources
+C:\Users\maria\Downloads\DANZART\obj\Debug\DANZART.frmInscribir.resources
+C:\Users\maria\Downloads\DANZART\obj\Debug\DANZART.frmMensualidades.resources
+C:\Users\maria\Downloads\DANZART\obj\Debug\DANZART.Properties.Resources.resources
+C:\Users\maria\Downloads\DANZART\obj\Debug\DANZART.csproj.GenerateResource.cache
+C:\Users\maria\Downloads\DANZART\obj\Debug\DANZART.csproj.CoreCompileInputs.cache
+C:\Users\maria\Downloads\DANZART\obj\Debug\DANZART.exe
+C:\Users\maria\Downloads\DANZART\obj\Debug\DANZART.pdb
+C:\Users\Silva\Desktop\Proyecto BD\DANZART\obj\Debug\DANZART.frmModificarAlumnos.resources
+C:\Users\Silva\Desktop\Proyecto BD\DANZART\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\Silva\Desktop\Proyecto BD\DANZART\obj\Debug\DANZART.csproj.CopyComplete
+D:\DANZART\DANZART\obj\Debug\DANZART.csproj.CopyComplete
+C:\Users\Silva\Desktop\New Proyecto BD\DANZART\bin\Debug\DANZART.exe.config
+C:\Users\Silva\Desktop\New Proyecto BD\DANZART\bin\Debug\DANZART.exe
+C:\Users\Silva\Desktop\New Proyecto BD\DANZART\bin\Debug\DANZART.pdb
+C:\Users\Silva\Desktop\New Proyecto BD\DANZART\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\Silva\Desktop\New Proyecto BD\DANZART\obj\Debug\DANZART.csprojAssemblyReference.cache
+C:\Users\Silva\Desktop\New Proyecto BD\DANZART\obj\Debug\DANZART.frmModificarClases.resources
+C:\Users\Silva\Desktop\New Proyecto BD\DANZART\obj\Debug\DANZART.frmModificarEmpleados.resources
+C:\Users\Silva\Desktop\New Proyecto BD\DANZART\obj\Debug\DANZART.frmModificarGrupos.resources
+C:\Users\Silva\Desktop\New Proyecto BD\DANZART\obj\Debug\DANZART.frmModificarHorario.resources
+C:\Users\Silva\Desktop\New Proyecto BD\DANZART\obj\Debug\DANZART.frmModificarMensualidad.resources
+C:\Users\Silva\Desktop\New Proyecto BD\DANZART\obj\Debug\DANZART.frmModificarAlumnos.resources
+C:\Users\Silva\Desktop\New Proyecto BD\DANZART\obj\Debug\DANZART.frmAcercaDe.resources
+C:\Users\Silva\Desktop\New Proyecto BD\DANZART\obj\Debug\DANZART.frmAlumnos.resources
+C:\Users\Silva\Desktop\New Proyecto BD\DANZART\obj\Debug\DANZART.frmEmpleados.resources
+C:\Users\Silva\Desktop\New Proyecto BD\DANZART\obj\Debug\DANZART.frmGrupos.resources
+C:\Users\Silva\Desktop\New Proyecto BD\DANZART\obj\Debug\DANZART.frmHorario.resources
+C:\Users\Silva\Desktop\New Proyecto BD\DANZART\obj\Debug\DANZART.Inicio_de_sesion.resources
+C:\Users\Silva\Desktop\New Proyecto BD\DANZART\obj\Debug\DANZART.frmInicio.resources
+C:\Users\Silva\Desktop\New Proyecto BD\DANZART\obj\Debug\DANZART.frmInscribir.resources
+C:\Users\Silva\Desktop\New Proyecto BD\DANZART\obj\Debug\DANZART.frmMensualidades.resources
+C:\Users\Silva\Desktop\New Proyecto BD\DANZART\obj\Debug\DANZART.Properties.Resources.resources
+C:\Users\Silva\Desktop\New Proyecto BD\DANZART\obj\Debug\DANZART.csproj.GenerateResource.cache
+C:\Users\Silva\Desktop\New Proyecto BD\DANZART\obj\Debug\DANZART.csproj.CoreCompileInputs.cache
+C:\Users\Silva\Desktop\New Proyecto BD\DANZART\obj\Debug\DANZART.csproj.CopyComplete
+C:\Users\Silva\Desktop\New Proyecto BD\DANZART\obj\Debug\DANZART.exe
+C:\Users\Silva\Desktop\New Proyecto BD\DANZART\obj\Debug\DANZART.pdb
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Proyecto CobraKai\DANZART\obj\Debug\DANZART.csprojAssemblyReference.cache
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Proyecto CobraKai\DANZART\obj\Debug\DANZART.frmModificarClases.resources
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Proyecto CobraKai\DANZART\obj\Debug\DANZART.frmModificarEmpleados.resources
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Proyecto CobraKai\DANZART\obj\Debug\DANZART.frmModificarGrupos.resources
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Proyecto CobraKai\DANZART\obj\Debug\DANZART.frmModificarHorario.resources
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Proyecto CobraKai\DANZART\obj\Debug\DANZART.frmModificarMensualidad.resources
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Proyecto CobraKai\DANZART\obj\Debug\DANZART.frmModificarAlumnos.resources
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Proyecto CobraKai\DANZART\obj\Debug\DANZART.frmAcercaDe.resources
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Proyecto CobraKai\DANZART\obj\Debug\DANZART.frmAlumnos.resources
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Proyecto CobraKai\DANZART\obj\Debug\DANZART.frmEmpleados.resources
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Proyecto CobraKai\DANZART\obj\Debug\DANZART.frmGrupos.resources
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Proyecto CobraKai\DANZART\obj\Debug\DANZART.frmHorario.resources
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Proyecto CobraKai\DANZART\obj\Debug\DANZART.Inicio_de_sesion.resources
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Proyecto CobraKai\DANZART\obj\Debug\DANZART.frmInicio.resources
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Proyecto CobraKai\DANZART\obj\Debug\DANZART.frmInscribir.resources
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Proyecto CobraKai\DANZART\obj\Debug\DANZART.frmMensualidades.resources
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Proyecto CobraKai\DANZART\obj\Debug\DANZART.Properties.Resources.resources
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Proyecto CobraKai\DANZART\obj\Debug\DANZART.csproj.GenerateResource.cache
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Proyecto CobraKai\DANZART\obj\Debug\DANZART.csproj.CoreCompileInputs.cache
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Proyecto CobraKai\DANZART\obj\Debug\DANZART.exe
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Proyecto CobraKai\DANZART\obj\Debug\DANZART.pdb
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Proyecto CobraKai\DANZART\bin\Debug\DANZART.exe.config
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Proyecto CobraKai\DANZART\bin\Debug\DANZART.exe
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Proyecto CobraKai\DANZART\bin\Debug\DANZART.pdb
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Proyecto CobraKai\DANZART\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Proyecto CobraKai\DANZART\obj\Debug\DANZART.csproj.CopyComplete
+C:\Users\andre\source\repos\DANZART\bin\Debug\DANZART.exe.config
+C:\Users\andre\source\repos\DANZART\bin\Debug\DANZART.exe
+C:\Users\andre\source\repos\DANZART\bin\Debug\DANZART.pdb
+C:\Users\andre\source\repos\DANZART\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\andre\source\repos\DANZART\obj\Debug\DANZART.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\DANZART\obj\Debug\DANZART.frmModificarClases.resources
+C:\Users\andre\source\repos\DANZART\obj\Debug\DANZART.frmModificarEmpleados.resources
+C:\Users\andre\source\repos\DANZART\obj\Debug\DANZART.frmModificarGrupos.resources
+C:\Users\andre\source\repos\DANZART\obj\Debug\DANZART.frmModificarHorario.resources
+C:\Users\andre\source\repos\DANZART\obj\Debug\DANZART.frmModificarMensualidad.resources
+C:\Users\andre\source\repos\DANZART\obj\Debug\DANZART.frmModificarAlumnos.resources
+C:\Users\andre\source\repos\DANZART\obj\Debug\DANZART.frmAcercaDe.resources
+C:\Users\andre\source\repos\DANZART\obj\Debug\DANZART.frmAlumnos.resources
+C:\Users\andre\source\repos\DANZART\obj\Debug\DANZART.frmEmpleados.resources
+C:\Users\andre\source\repos\DANZART\obj\Debug\DANZART.frmGrupos.resources
+C:\Users\andre\source\repos\DANZART\obj\Debug\DANZART.frmHorario.resources
+C:\Users\andre\source\repos\DANZART\obj\Debug\DANZART.Inicio_de_sesion.resources
+C:\Users\andre\source\repos\DANZART\obj\Debug\DANZART.frmInicio.resources
+C:\Users\andre\source\repos\DANZART\obj\Debug\DANZART.frmInscribir.resources
+C:\Users\andre\source\repos\DANZART\obj\Debug\DANZART.frmMensualidades.resources
+C:\Users\andre\source\repos\DANZART\obj\Debug\DANZART.Properties.Resources.resources
+C:\Users\andre\source\repos\DANZART\obj\Debug\DANZART.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\DANZART\obj\Debug\DANZART.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\DANZART\obj\Debug\DANZART.csproj.CopyComplete
+C:\Users\andre\source\repos\DANZART\obj\Debug\DANZART.exe
+C:\Users\andre\source\repos\DANZART\obj\Debug\DANZART.pdb
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Cobra 2\DANZART\bin\Debug\DANZART.exe.config
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Cobra 2\DANZART\bin\Debug\DANZART.exe
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Cobra 2\DANZART\bin\Debug\DANZART.pdb
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Cobra 2\DANZART\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Cobra 2\DANZART\obj\Debug\DANZART.csprojAssemblyReference.cache
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Cobra 2\DANZART\obj\Debug\DANZART.frmModificarClases.resources
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Cobra 2\DANZART\obj\Debug\DANZART.frmModificarEmpleados.resources
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Cobra 2\DANZART\obj\Debug\DANZART.frmModificarGrupos.resources
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Cobra 2\DANZART\obj\Debug\DANZART.frmModificarHorario.resources
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Cobra 2\DANZART\obj\Debug\DANZART.frmModificarMensualidad.resources
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Cobra 2\DANZART\obj\Debug\DANZART.frmModificarAlumnos.resources
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Cobra 2\DANZART\obj\Debug\DANZART.frmAcercaDe.resources
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Cobra 2\DANZART\obj\Debug\DANZART.frmAlumnos.resources
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Cobra 2\DANZART\obj\Debug\DANZART.frmEmpleados.resources
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Cobra 2\DANZART\obj\Debug\DANZART.frmGrupos.resources
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Cobra 2\DANZART\obj\Debug\DANZART.frmHorario.resources
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Cobra 2\DANZART\obj\Debug\DANZART.Inicio_de_sesion.resources
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Cobra 2\DANZART\obj\Debug\DANZART.frmInicio.resources
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Cobra 2\DANZART\obj\Debug\DANZART.frmInscribir.resources
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Cobra 2\DANZART\obj\Debug\DANZART.frmMensualidades.resources
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Cobra 2\DANZART\obj\Debug\DANZART.Properties.Resources.resources
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Cobra 2\DANZART\obj\Debug\DANZART.csproj.GenerateResource.cache
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Cobra 2\DANZART\obj\Debug\DANZART.csproj.CoreCompileInputs.cache
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Cobra 2\DANZART\obj\Debug\DANZART.csproj.CopyComplete
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Cobra 2\DANZART\obj\Debug\DANZART.exe
+C:\Users\TEMP\Documents\ITH 6 Semestre\Administracion de Base de Datos\Cobra 2\DANZART\obj\Debug\DANZART.pdb

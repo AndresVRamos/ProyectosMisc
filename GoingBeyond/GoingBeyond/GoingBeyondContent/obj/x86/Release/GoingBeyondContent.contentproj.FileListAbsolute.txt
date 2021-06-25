@@ -1,0 +1,2 @@
+C:\Users\andre\source\repos\GoingBeyond\GoingBeyond\GoingBeyondContent\obj\x86\Release\GoingBeyondContent.contentprojAssemblyReference.cache
+C:\Users\andre\source\repos\GoingBeyond\GoingBeyond\GoingBeyondContent\obj\x86\Release\GoingBeyondContent.contentproj.CoreCompileInputs.cache

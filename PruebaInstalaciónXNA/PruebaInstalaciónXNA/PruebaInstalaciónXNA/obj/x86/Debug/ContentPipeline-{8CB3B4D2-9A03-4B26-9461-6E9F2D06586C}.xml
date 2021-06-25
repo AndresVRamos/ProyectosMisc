@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{8CB3B4D2-9A03-4B26-9461-6E9F2D06586C}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\andre\source\repos\PruebaInstalaciónXNA\PruebaInstalaciónXNA\PruebaInstalaciónXNAContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\andre\source\repos\PruebaInstalaciónXNA\PruebaInstalaciónXNA\PruebaInstalaciónXNA\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\andre\source\repos\PruebaInstalaciónXNA\PruebaInstalaciónXNA\PruebaInstalaciónXNA\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\andre\source\repos\PruebaInstalaciónXNA\PruebaInstalaciónXNA\PruebaInstalaciónXNA\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2021-05-14T15:02:43.2014007-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
